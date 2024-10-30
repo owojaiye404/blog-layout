@@ -62,3 +62,35 @@ header {
 .navigation a:hover {
   border-bottom: 2px solid crimson;
 }
+.sidebar-links a {
+  text-decoration: none;
+  color: #eee;
+}
+
+.sidebar {
+  position: fixed;
+  left: 0;
+  height: 100%;
+  width: 270px;
+  background-color: #161a2d;
+  padding: 25px 10px;
+}
+
+.sidebar-links li {
+  list-style: none;
+  padding: 20px 0;
+  margin-top: 15px;
+  text-align: center;
+}
+.sidebar h4 {
+  color: #fff;
+  margin: 10px 0;
+  white-space: nowrap;
+  text-align: center;
+  font-size: 20px;
+}
+
+.sidebar-links li:hover {
+  background-color: #ffffff2d;
+  border-radius: 4px;
+}
