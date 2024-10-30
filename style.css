@@ -97,3 +97,56 @@ header {
 main {
   margin: 0 0 0 270px;
 }
+main .col {
+  width: 80%;
+}
+.post .post-img {
+  width: 100%;
+  margin: 15px 0 0 15px;
+  border-radius: 15px;
+}
+.col3 {
+  width: 80%;
+}
+.post-img3 {
+  width: 100%;
+  margin: 40px 0 0 15px;
+  border-radius: 10px;
+}
+.col2 {
+  width: 80%;
+}
+.post-image2 {
+  width: 100%;
+  margin: 40px 0 0 15px;
+  border-radius: 10px;
+}
+h2 {
+  font-size: 3rem;
+  font-weight: 600px;
+}
+h3 {
+  font-size: 2rem;
+}
+.container-main p {
+  line-height: 2em;
+  color: #4b4b4b;
+  font-size: 20px;
+  margin: 10px;
+}
+.container-main .more-content {
+  display: none;
+}
+.read-more-botton {
+  cursor: pointer;
+  color: blue;
+}
+
+.container-main img:hover {
+  position: relative;
+  top: -4px;
+  cursor: pointer;
+}
+.read-more-botton:hover {
+  text-decoration: underline;
+}
