@@ -150,3 +150,14 @@ h3 {
 .read-more-botton:hover {
   text-decoration: underline;
 }
+.footer-container {
+  margin: 0 0 0 270px;
+  background-color: #161a2d;
+  padding: 5px 20px;
+  text-align: center;
+  margin: 300px 0 0 0;
+}
+.footer-container p {
+  color: white;
+  font-size: 20px;
+}
